@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Vishwas Acharya\\Learn\\dotnet\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectUniqueName": "C:\\Vishwas Acharya\\Learn\\dotnet\\SuperHeroAPI-dotnet\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "projectName": "SuperHeroAPI",
-      "projectPath": "C:\\Vishwas Acharya\\Learn\\dotnet\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectPath": "C:\\Vishwas Acharya\\Learn\\dotnet\\SuperHeroAPI-dotnet\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "packagesPath": "C:\\Users\\DC\\.nuget\\packages\\",
-      "outputPath": "C:\\Vishwas Acharya\\Learn\\dotnet\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
+      "outputPath": "C:\\Vishwas Acharya\\Learn\\dotnet\\SuperHeroAPI-dotnet\\SuperHeroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DC\\AppData\\Roaming\\NuGet\\NuGet.Config",
